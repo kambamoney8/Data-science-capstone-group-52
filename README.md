@@ -17,7 +17,7 @@
 | S/N | Full Name | GitHub Username | Assigned Role / Section |
 | :--- | :--- | :--- | :--- |
 | 1 | **[JEPHTHAH THEOPHILUS]** | `@kambamoney8` | Group Leader, Repo Management & Presentation |
-| 2 | [Member Name] | `@username` | Data Cleaning & Preprocessing |
+| 2 | **[ADUNMO THEOPHILUS]** | `@adunmotheophilus` | Data Cleaning & Preprocessing |
 | 3 | [Member Name] | `@username` | Exploratory Data Analysis (EDA) |
 | 4 | [Member Name] | `@username` | Model Building & Evaluation |
 | 5 | [Member Name] | `@username` | Documentation & Final Report |
